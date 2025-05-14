@@ -1,4 +1,4 @@
-package org.Exercise4;
+package org.example.Exercise4;
 
 public class ThreadRunnable {
     public static void main(String[] args) {

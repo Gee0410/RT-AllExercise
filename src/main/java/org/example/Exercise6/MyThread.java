@@ -1,4 +1,4 @@
-package org.Exercise6;
+package org.example.Exercise6;
 
 public class MyThread extends Thread{
     private volatile boolean running=true;

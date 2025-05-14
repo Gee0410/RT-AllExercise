@@ -1,4 +1,4 @@
-package org.Exercise1;
+package org.example.Exercise1;
 
 public class SimpleThread {
 

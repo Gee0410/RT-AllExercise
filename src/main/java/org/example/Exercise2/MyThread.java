@@ -1,4 +1,4 @@
-package org.Exercise2;
+package org.example.Exercise2;
 
 public class MyThread extends Thread {
     public void run() {

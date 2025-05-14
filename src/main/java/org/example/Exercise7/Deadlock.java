@@ -1,4 +1,4 @@
-package org.Exercise7;
+package org.example.Exercise7;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package org.Exercise6;
+package org.example.Exercise6;
 
 import java.io.IOException;
 

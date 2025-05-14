@@ -1,4 +1,4 @@
-package org.Exercise8;
+package org.example.Exercise8;
 
 public class NormalThread extends Thread{
     private Counter counter;

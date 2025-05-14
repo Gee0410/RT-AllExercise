@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Assignment1;
 
 public class Test5 {
     // Regular comment for documentation

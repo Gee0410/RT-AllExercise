@@ -1,4 +1,4 @@
-package org.Exercise8;
+package org.example.Exercise8;
 
 public class TestAtomicInteger1p {
     public static void main(String[] args) throws InterruptedException{

@@ -1,4 +1,4 @@
-package org.Exercise5;
+package org.example.Exercise5;
 
 public class TestSleep {
     public static void main(String[] args) {

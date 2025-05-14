@@ -1,4 +1,4 @@
-package org.Exercise8;
+package org.example.Exercise8;
 
 public class ThreadComparison {
     private static final int NUM_THREADS=10;

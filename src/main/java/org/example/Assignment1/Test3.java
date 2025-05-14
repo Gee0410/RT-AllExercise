@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Assignment1;
 
 public class Test3 {
     // BUG: Null pointer exception possible

@@ -1,4 +1,4 @@
-package org.Exercise8;
+package org.example.Exercise8;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

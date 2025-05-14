@@ -1,4 +1,4 @@
-package org.Exercise2;
+package org.example.Exercise2;
 
 public class MySleep extends Thread{
     public static void main(String[] args) {
