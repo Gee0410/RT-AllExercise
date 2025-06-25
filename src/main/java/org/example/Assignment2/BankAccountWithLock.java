@@ -1,7 +1,7 @@
-package org.example.Exercise11;
+package org.example.Assignment2;
 
-import java.util.concurrent.locks.ReentrantReadWriteLock;
 import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 public class BankAccountWithLock {
     private double balance;
